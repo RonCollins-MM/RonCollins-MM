@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RonCollins-MM
-- 👀 I’m a medical student, who is also enjoys coding among other things.
+- 👀 I’m a medical student, who also enjoys coding among other things.
 - 🌱 I’m currently learning cs50 (programming in C).
-- 💞️ I’m looking to collaborate on any programming project, especially those involved in the medical field.
+- 💞️ I’m looking to collaborate on programming projects involved in the medical field.
 - 📫 How to reach me: on Twitter @RonCollins_MM
 
 <!---
