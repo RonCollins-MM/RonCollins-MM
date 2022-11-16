@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RonCollins-MM
-- 👀 I’m a medical doctor, who also enjoys coding among other things.
-- 🌱 I’m currently learning to be a full stack developer.
-- 💞️ I’m looking to collaborate on programming projects, healthcare related if possible.
+- Hi, I’m @RonCollins-MM
+- I’m a medical doctor, who also loves to code.
+- I’m currently learning to be a full stack developer, with a bias towards backend dev.
+- Would love to collaborate on any kind of project really ...
 - 📫 How to reach me: Hit me up on github and I'll get back to you
 
 <!---
