@@ -1,4 +1,3 @@
-My name is RonCollins.
 I love to code and build stuff, really love backend.
 I am also a medical doctor 😄.
 
