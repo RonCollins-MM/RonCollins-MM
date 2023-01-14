@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="COMING SOON">
+  <a href="https://www.linkedin.com/in/roncollins-m-a15955102/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <a href="COMING SOON" align="center">
+  <a href="https://twitter.com/RonCollins_MM/" align="center" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -27,7 +27,7 @@
 
 - 👨‍⚕️ I also work as a medical doctor.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RonCollins_MM-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-RonCollins_MM-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://twitter.com/RonCollins_MM/))
   
 ---
 
