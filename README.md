@@ -11,13 +11,16 @@
 <div id="profile_view_counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=RonCollins-MM&style=flat-square&color=blue" alt=""/>
 </div>
-### Now Playing — Spotify 🎧
+
+<div id="spotify" align="center">
+<h1> Now Playing — Spotify 🎧 </h1>
 <p>
-<a href=”https://spotify-github-profile.vercel.app/api/view?uid=sa8o0mtnh4ur8ntu9cso9zdxd&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true">
-<img src=”"https://spotify-github-profile.vercel.app/api/view?uid=sa8o0mtnh4ur8ntu9cso9zdxd&redirect=true/>
+<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=sa8o0mtnh4ur8ntu9cso9zdxd&redirect=true">
+<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=sa8o0mtnh4ur8ntu9cso9zdxd&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true"/>
 </a>
 </p>
-  
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sa8o0mtnh4ur8ntu9cso9zdxd&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
  ---
 
 ###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
