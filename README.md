@@ -26,12 +26,12 @@
 ---
 
 ###  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me :
- I am a fullstack developer from Nairobi, Kenya.
-- 🖥️ I’m currently a freelance developer focusing mainly on backend engineering.
-
-- 👨‍⚕️ I also work as a medical doctor.
-
-- :mailbox:How to reach me: Twitter or LinkedIn (Click Icons above)
+I am currently residing in Kenya. I have a deep love and passion for coding and software engineering.
+Working also as a doctor, my current focus is in finding innovative ways to integrate technology and healthcare
+in a bid to improve healthcare delivery and access.
+I love Python.
+I am good with backend web development with python frameworks aiming to be proficient.
+Looking to venture into Machine Learning and AI soon.
   
 ---
 
